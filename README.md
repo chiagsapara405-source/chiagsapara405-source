@@ -61,4 +61,4 @@ Become an AI Full-Stack Developer capable of building:
 ## 🔗 Connect With Me
 
 GitHub: https://github.com/chiagsapara405-source
-LinkedIn: https://www.linkedin.com/in/chirag-sapara
+LinkedIn: https://www.linkedin.com/in/chirag-sapara-085bb9389?utm_source=share_via&utm_content=profile&utm_medium=member_android
