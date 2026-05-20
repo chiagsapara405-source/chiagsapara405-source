@@ -1,111 +1,64 @@
-# 👋 Hey there, I'm Chirag Sapara
+# 👋 Hey, I'm Chirag Sapara
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
+### BCA Student @ RK University • Learning Full-Stack & AI Development
 
-### BCA Student @ RK University · Semester 2 · 2026
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8">
+</p>
 
-I'm learning to build things with code. Started with **C programming**, now exploring **web development** with HTML, CSS, and JavaScript. These are my projects so far — still a lot to learn, but enjoying every step.
+I started programming with **C language** and currently learning **HTML, CSS, JavaScript, and modern frontend development**.
+
+My focus right now is:
+- building projects
+- improving problem-solving
+- understanding how real applications work
 
 ---
 
 ## 📌 About Me
 
-> *"Make a computer do exactly what you tell it to — that's the magic."*
-
-I'm **Chirag Sapara**, currently in **Semester 2 of my BCA at RK University**. I got into programming through my course and quickly got hooked — there's something deeply satisfying about that first successful compile.
-
-🔹 **First love:** C programming  
-🔹 **First real project:** *Library Management System* (structs, arrays, functions, loops — the works)  
-🔹 **Currently diving into:** HTML, CSS, JavaScript, and modern tools like Lovable  
-
-I also built a **Restaurant Management App** using Lovable while exploring AI-assisted development. Early in my journey, but building every single day.
+- 🎓 BCA Student — Semester 2
+- 💻 Started coding with C Programming
+- 🌐 Exploring Web Development
+- ⚡ Interested in AI + Full-Stack Development
+- 🛠 Learning by building projects
+- 📚 Currently improving JavaScript fundamentals
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠 Tech Stack
 
+C • HTML • CSS • JavaScript • Git • GitHub • 5+ AI Tools • VS Code 
 
+---
 
-C         ███████████░░░  90%
+## 🚀 Current Goal
 
-HTML/CSS  ███████████░░░  90%
+Become an AI Full-Stack Developer capable of building:
+- modern web applications
+- AI-powered tools
+- scalable backend systems
+- clean and responsive user interfaces
 
-JS        ████████░░░░░░  50%
+---
 
-Lovable   ██████████░░░░  80%
+## 📈 Currently Working On
 
-##🎒 Backpack:
-├── ⚔️ C Programming (Quest reward)
-├── 🛡️ HTML5 Shield
-├── 🎨 CSS3 Cloak
-├── 🔮 JavaScript Spellbook
-├── 🧪 Lovable AI Artifact
-├── 💾 VS Code (main weapon)
-└── ☕ Infinite Coffee Potion
-class ChiragSapara:
-    def __init__(self):
-        self.class = "Code Mage"
-        self.level = 2  # Semester 2
-        self.university = "RK University"
-        self.graduation_year = 2026
-        self.hp = 78
-        self.mp = 54
-        self.guild = "BCA"
+- Personal Portfolio
+- Responsive Frontend Projects
+- JavaScript Practice
+- Git & GitHub Workflow
+- Learning MERN
 
+---
 
-    def skills(self):
-        return {
-            "Passive": "Determination +30%",
-            "Active": ["C programming", "HTML/CSS", "JavaScript", "Problem solving"],
-            "Ultimate": "Building daily — no matter what"
-        }
-    
-    def backstory(self):
-        return """
-        Started with a simple 'Hello World' spell.
-        Got hooked when I made a computer obey my commands.
-        Built a Library Management System — my first real dungeon.
-        Now grinding web development for the open world.
-        Every bug is just a puzzle. Every project, a side quest.
-        """
+## 🧠 Mindset
 
+> "Programming is less about syntax and more about learning how to think."
 
+---
 
-        
-+ 🥇 "First Compile" — Got C program running without errors
-+ 🥈 "Library Guardian" — Built functional LMS with structs & arrays
-+ 🥉 "Web Explorer" — Created first HTML/CSS page
-+ ⭐ "AI Apprentice" — Used Lovable for Restaurant App
-+ 📖 "100 Days of Code" — [ACTIVE STREAK: 34 days]
+## 🔗 Connect With Me
 
-
-
-
-mission: "Web Development Mastery"
-difficulty: MEDIUM
-party_size: 1 (solo grinder)
-objectives:
-  - Master JavaScript fundamentals [█████░░░░░ 50%]
-  - Build 5 mini web projects [██░░░░░░░░ 2/5]
-  - Create interactive portfolio [██████████ 100%]
-  - Join open source guild [🔒 locked - Level 3 required]
-
-
-
-
-
-daily_routine:
-  - 07:00 - Morning coffee spell
-  - 09:00 - University quests
-  - 16:00 - Code grind session
-  - 22:00 - Log progress & rest
-
-
-
-
-┌─────────────────────────────────────────┐
-│ 🎧 Lo-fi coding beats → 24/7 stream     │
-│ 🎮 Stardew Valley OST (focus mode)      │
-│ 🐱‍💻 Keyboard clacks as ASMR             │
-└─────────────────────────────────────────┘
-
+GitHub: https://github.com/chiagsapara405-source
+LinkedIn: your-linkedin-link
