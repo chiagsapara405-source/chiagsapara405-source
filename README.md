@@ -17,7 +17,7 @@ My focus right now is:
 
 ## 📌 About Me
 
-- 🎓 BCA Student — Semester 2
+- 🎓 BCA Student — Semester 3
 - 💻 Started coding with C Programming
 - 🌐 Exploring Web Development
 - ⚡ Interested in AI + Full-Stack Development
