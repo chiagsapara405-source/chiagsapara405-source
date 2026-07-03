@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8">
 </p>
 
-I started programming with **C language** and currently learning **HTML, CSS, JavaScript, and modern frontend development**.
+I started programming with **C language** and currently learning **Backend, and modern frontend development**.
 
 My focus right now is:
 - building projects
@@ -28,7 +28,7 @@ My focus right now is:
 
 ## 🛠 Tech Stack
 
-C • HTML • CSS • JavaScript • Git • GitHub • 5+ AI Tools • VS Code 
+C • HTML • CSS • JavaScript • tailwindcss • react • Git • GitHub • 5+ AI Tools • VS Code 
 
 ---
 
