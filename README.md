@@ -28,7 +28,7 @@ My focus right now is:
 
 ## 🛠 Tech Stack
 
-C • HTML • CSS • JavaScript • tailwindcss • react • Git • GitHub • 5+ AI Tools • VS Code 
+C • HTML • CSS • JavaScript • tailwindcss • react • Git • GitHub • Node • Express • MongoDB • PostgreSQL • 5+ AI Tools • VS Code 
 
 ---
 
