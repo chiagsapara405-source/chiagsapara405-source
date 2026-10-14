@@ -75,6 +75,7 @@ I want to become a capable AI Full-Stack Developer who can build:
 
 ---
 
+
 ## 📌 Currently Working On
 
 - Building personal portfolio projects
@@ -114,8 +115,7 @@ I’m learning through hands-on development and real-world project work. My curr
 ---
 
 ## 🔗 Connect With Me
-
-- GitHub: https://github.com/chiagsapara405-source
-- LinkedIn: https://www.linkedin.com/in/chirag-sapara-085bb9389
-
-I’m always open to learning, collaborating, and building meaningful projects with others.
+<p>
+  <a href="https://github.com/chiagsapara405-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chirag-sapara-085bb9389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
