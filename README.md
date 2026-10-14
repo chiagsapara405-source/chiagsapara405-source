@@ -36,39 +36,32 @@ I’m currently improving my skills in:
 ## 🛠️ Tech Stack
 
 ### Languages
-- C
-- HTML
-- CSS
-- JavaScript
-- Java
-- Python
-- C++
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css&perline=7" alt="Languages" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" height="48" />
+</p>
 
 ### Frontend
-- React
-- Tailwind CSS
-- GSAP
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind&perline=7" alt="Frontend" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" height="48" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- Next.js
-- Mongoose
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs&perline=7" alt="Backend" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" height="48" />
+</p>
 
 ### Database
-- MongoDB
-- PostgreSQL
-- Supabase
-- Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase&perline=7" alt="Databases" />
+</p>
 
 ### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- AI Tools
-- Postman
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=7" alt="Tools" />
+</p>
 ---
 
 ## 🎯 Current Goals
@@ -106,6 +99,13 @@ I’m learning through hands-on development and real-world project work. My curr
 > More projects and demos will be added as I continue building.
 
 ---
+## 📂 Featured Projects
+
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Aura** | E-commerce app with animated UI | React, React Router, GSAP, Tailwind | [Code](https://github.com/chiagsapara405-source/mini-e-commerce-website) |
+| **CampusBite** | College cafeteria food ordering site | HTML, Tailwind, GSAP, PHP |  [Code](https://github.com/chiagsapara405-source/campusBite) |
+| **QuickPay** | Mobile-first simulated UPI payment app | Next.js, Supabase | [Live](https://quick-pays.vercel.app/home) · [Code](https://github.com/chiagsapara405-source/QuickPay) |
 
 ## 💡 Mindset
 
