@@ -40,24 +40,34 @@ I’m currently improving my skills in:
 - HTML
 - CSS
 - JavaScript
+- Java
+- Python
+- C++
+- SQL
 
 ### Frontend
 - React
 - Tailwind CSS
+- GSAP
 
 ### Backend
 - Node.js
 - Express.js
+- Next.js
+- Mongoose
 
 ### Database
 - MongoDB
 - PostgreSQL
+- Supabase
+- Firebase
 
 ### Tools & Platforms
 - Git
 - GitHub
 - VS Code
 - AI Tools
+- Postman
 
 ---
 
@@ -65,7 +75,7 @@ I’m currently improving my skills in:
 
 I want to become a capable AI Full-Stack Developer who can build:
 
-- modern and responsive web applications
+- modern and responsive web applications and Mobile applications
 - scalable backend systems
 - AI-powered tools and experiences
 - clean, user-friendly interfaces
